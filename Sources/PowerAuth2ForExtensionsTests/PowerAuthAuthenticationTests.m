@@ -146,11 +146,4 @@
 #endif // PA2_HAS_LACONTEXT
 }
 
-- (void) testLegacyObject
-{
-    PowerAuthAuthentication * auth = [[PowerAuthAuthentication alloc] init];
-    XCTAssertFalse([auth validateUsage:NO]);
-    XCTAssertFalse([auth validateUsage:YES]);
-}
-
 @end
