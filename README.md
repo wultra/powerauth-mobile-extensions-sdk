@@ -1,5 +1,5 @@
 # PowerAuth Mobile SDK for iOS and tvOS Extensions
 
-This repository contains source codes of PowerAuth mobile SDK for iOS and tvOS Extensions, originally embedded within the main [PowerAuth mobile SDK](http://github.com/wultra/powerauth-mobile-sdk) repo. We had to split the codebase into multiple standalone git repos in the SDK version `1.7.7`. The reason why we had to do this split is explained in issue [wultra/powerauth-mobile-sdk#513](https://github.com/wultra/powerauth-mobile-sdk/issues/513).
+This repository contains source codes of **deprecated** PowerAuth mobile SDK for iOS and tvOS Extensions, originally embedded within the main [PowerAuth mobile SDK](http://github.com/wultra/powerauth-mobile-sdk) repo. We had to split the codebase into multiple standalone git repos in the SDK version `1.7.7`. The reason why we had to do this split is explained in issue [wultra/powerauth-mobile-sdk#513](https://github.com/wultra/powerauth-mobile-sdk/issues/513).
 
-We still maintain the documentation for the library at the original location, so, if you looking for a documentation, then we recommend you to visit our [documentation portal](https://developers.wultra.com/products/mobile-security-suite/develop/powerauth-mobile-sdk/PowerAuth-SDK-for-iOS-Extensions).
+The library is no longer maintained, so if you're looking for the original documentation, then please visit our documentation portal and look for [PowerAuth mobile SDK 1.9.x](https://developers.wultra.com/components/powerauth-mobile-sdk/1.9.x/documentation/PowerAuth-SDK-for-iOS-Extensions).
